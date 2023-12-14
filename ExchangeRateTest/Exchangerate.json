@@ -1,0 +1,32 @@
+[
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "INR",
+    "rate": 74.000000
+  },
+  {
+    "fromCurrency": "INR",
+    "toCurrency": "USD",
+    "rate": 0.013000
+  },
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "EUR",
+    "rate": 0.850000
+  },
+  {
+    "fromCurrency": "EUR",
+    "toCurrency": "USD",
+    "rate": 1.180000
+  },
+  {
+    "fromCurrency": "INR",
+    "toCurrency": "EUR",
+    "rate": 0.011000
+  },
+  {
+    "fromCurrency": "EUR",
+    "toCurrency": "INR",
+    "rate": 88.000000
+  }
+]
